@@ -1,4 +1,4 @@
-# Mini-Program
+# Mini-Programs
 Here are some simple small programs, updated irregularly.
 
 ## List of Mini-programs
