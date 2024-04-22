@@ -12,3 +12,5 @@ This is a program to convert videos to mp3.
 Packaging steps：
 1. Install PyInstaller library：`pip install pyinstaller`
 2. Execute this command in your Python environment：`pyinstaller -F VideoToMp3.py`
+
+After packaging, you can directly drag the video onto the executable file to use.
